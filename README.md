@@ -10,7 +10,8 @@ Henrique Silva.
 
 ### Ferramentas e configurações necessárias para reproduzir os cenários de teste
 
-API ServeRest disponível no repositório: [https://github.com/ServeRest/ServeRest](https://github.com/ServeRest/ServeRest)
+API ServeRest disponível no repositório:
+[https://github.com/ServeRest/ServeRest](https://github.com/ServeRest/ServeRest)
 
 Postman disponível no site:  
 [https://www.postman.com/downloads/](https://www.postman.com/downloads/)
@@ -57,7 +58,8 @@ Segue abaixo o planejamento utilizando o mapa mental para demonstrar o planejame
 # Desafio de testes funcionais API(ServeRest).
 
 O desafio de testes funcionais foi realizado na ferramenta Postman. Lá é possivel testar todas as requisições da API ServeRest. A resolução dos desafios propostos estão indicadas nas pastas "Cenario 1" e "Cenario 2"
-Todas as collections utilizadas estão no seguinte link: [https://github.com/HenriqueBrQA/Desafio-testes-funcionais/tree/main/collections-Postman](https://github.com/HenriqueBrQA/Desafio-testes-funcionais/tree/main/collections-Postman)
+Todas as collections utilizadas estão no seguinte link: 
+[https://github.com/HenriqueBrQA/Desafio-testes-funcionais/tree/main/collections-Postman](https://github.com/HenriqueBrQA/Desafio-testes-funcionais/tree/main/collections-Postman)
 
 ## Para o seu correto funcionamento, é necessário configurar as variáveis globais conforme imagem abaixo:
 
