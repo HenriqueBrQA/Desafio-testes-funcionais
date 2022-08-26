@@ -11,12 +11,14 @@ Henrique Silva.
 ### Ferramentas e configurações necessárias para reproduzir os cenários de teste
 
 API ServeRest disponível no repositório:
+
 [https://github.com/ServeRest/ServeRest](https://github.com/ServeRest/ServeRest)
 
 Postman disponível no site:  
 [https://www.postman.com/downloads/](https://www.postman.com/downloads/)
 
-As collections estão disponíveis na pasta collections: https://github.com/HenriqueBrQA/Desafio-testes-funcionais/tree/main/collections-Postman
+As collections estão disponíveis na pasta collections: 
+https://github.com/HenriqueBrQA/Desafio-testes-funcionais/tree/main/collections-Postman
 
 Jmeter:  
 [https://jmeter.apache.org/download_jmeter.cgi](https://jmeter.apache.org/download_jmeter.cgi)
