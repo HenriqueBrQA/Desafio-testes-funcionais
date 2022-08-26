@@ -2,7 +2,7 @@
 # Neoway - Teste Técnico
 
 Olá, 
-Segue abaixo a resolução do teste técnico para a vaga de QA da Neoway e um passo a passo da configuração utilizada para realizar a configuração e reprodução dos testes.
+Segue abaixo a resolução do teste técnico para a vaga de QA da Neoway e um passo a passo da configuração utilizada para realizar a reprodução dos testes.
 
 Desde já agradeço a oportunidade.
 
@@ -52,6 +52,7 @@ https://github.com/HenriqueBrQA/Desafio-testes-funcionais/blob/main/BDD/ColorGro
 # Mapa mental Estratégia de teste de API.
 
 Segue abaixo o planejamento utilizando o mapa mental para demonstrar o planejamento básico e inicial para realizar os teste na API ServeRest. Nele constam algumas técnicas e ferramentas que podem ser aplicadas para planejar  e apresentar o plano de testes para a equipe de uma forma visual e prática.
+[https://www.dropbox.com/s/815lzsgwvceqpir/Mapa%20Mental.jpeg?dl=0]
 
 # Desafio de testes funcionais API(ServeRest).
 
@@ -59,6 +60,8 @@ O desafio de testes funcionais foi realizado na ferramenta Postman. Lá é possi
 Todas as collections utilizadas estão no seguinte link: [https://github.com/HenriqueBrQA/Desafio-testes-funcionais/tree/main/collections-Postman](https://github.com/HenriqueBrQA/Desafio-testes-funcionais/tree/main/collections-Postman)
 
 ## Para o seu correto funcionamento, é necessário configurar as variáveis globais conforme imagem abaixo:
+
+[https://www.dropbox.com/s/v9arf369j4s68ph/Postman.jpeg?dl=0]
 
 **Importante estar com a API rodando localmente.**
 
